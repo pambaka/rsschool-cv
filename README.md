@@ -1,1 +1,1 @@
-https://github.com/pambaka/rsschool-cv/blob/gh-pages/cv
+https://pambaka.github.io/rsschool-cv/cv
