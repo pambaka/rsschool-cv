@@ -1,1 +1,1 @@
-https://pambaka.github.io/rsschool-cv/cv
+https://pambaka.github.io/rsschool-cv/
