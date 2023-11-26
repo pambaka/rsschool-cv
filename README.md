@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pambaka.github.io/rsschool-cv/
