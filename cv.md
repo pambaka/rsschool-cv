@@ -12,7 +12,10 @@
 ---
 ### Education:
 Moscow Institute of Physics and Technology (2008, master)
+
 ---
 ### Languages:
 English - Upper Intermidiate
+
 ---
+
